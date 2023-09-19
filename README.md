@@ -8,7 +8,7 @@ Este proyecto es un chatbot único y divertido que personifica a Lionel Messi. U
 
 ## Enlace al Proyecto
 
-Para disfrutar de Text-with-Messi en acción, visita la página del proyecto [aquí](https://text-with-messi-marcoalayn.vercel.app/){:target="_blank"}.
+Para disfrutar de Text-with-Messi en acción, visita la página del proyecto <a href="https://text-with-messi-marcoalayn.vercel.app/" target="_blank">aquí</a>.
 
 
 ## Contacto
