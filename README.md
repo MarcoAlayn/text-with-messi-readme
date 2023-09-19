@@ -12,6 +12,6 @@ Para disfrutar de Text-with-Messi en acción, visita la página del proyecto [aq
 
 ## Contacto
 
-Si eres un posible empleador o tienes alguna pregunta relacionada con este proyecto, no dudes en ponerte en contacto conmigo en [tu-correo-electrónico](marc_rob92@hotmail.com).
+Si eres un posible empleador o tienes alguna pregunta relacionada con este proyecto, no dudes en ponerte en contacto conmigo en [mi-correo-electrónico](marc_rob92@hotmail.com).
 
 Agradezco tu interés en Text-with-Messi y la oportunidad de explorar nuevas oportunidades laborales.
